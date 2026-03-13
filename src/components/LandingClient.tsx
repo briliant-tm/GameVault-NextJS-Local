@@ -96,7 +96,7 @@ export default function LandingClient() {
         <div className={styles.heroContent}>
           <div className={styles.heroBadge}>Your Personal Game Collection</div>
           <h1 className={styles.heroTitle}>
-            Every game you own,<br />
+            Every Game You Own,<br />
             <span className={styles.heroAccent}>in one place.</span>
           </h1>
           <p className={styles.heroDesc}>
