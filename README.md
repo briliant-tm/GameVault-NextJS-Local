@@ -1,5 +1,8 @@
 # GameVault — Local Setup (XAMPP + MySQL)
 
+## Donate
+saweria.co/AviL
+
 ## Prerequisites
 - Node.js 18+
 - XAMPP (Apache + MySQL running)
